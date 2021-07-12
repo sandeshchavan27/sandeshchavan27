@@ -9,5 +9,6 @@ Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflo
 
 ### My Recent projects 
 [NYC_Requests_Project](https://github.com/sandeshchavan27/NYC_Requests_Project)
+[IPL Data_EDA](https://github.com/sandeshchavan27/IPL_EDA)
 
 ### Skills
