@@ -1,6 +1,6 @@
 ## Hi 👋 I am Sandesh Chavan
-I am working as a Product Manager/ Product Owner in Baker Hughes 
- I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
+I am working as a Product Manager/ Product Owner in Baker Hughes.
+I am passionate about stuff like Data analytics,Data visualization,Machine Learning & Deep Learning. 
 Few tech that I enjoy working in are Python,plotly,Seaborn,sklearn and tensorflow. I am actively looking for opportunities in Data Science.
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset in coding , Machine Learning,deep learning and Deployment.
